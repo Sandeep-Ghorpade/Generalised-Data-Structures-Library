@@ -4,32 +4,32 @@ This project contains multiple core data structures, searching techniques, and s
 
 ---
 
-## 🚀 Features
+##   Features
 
-### ✔️ Linear Data Structures
+###   Linear Data Structures
 - Queue (Template-based)
 - Stack (Template-based)
 - Singly Linear Linked List (SLL)
 - Doubly Linear Linked List (DLL)
 
-### ✔️ Circular Linked Lists
+###   Circular Linked Lists
 - Singly Circular Linked List (SCLL)
 - Doubly Circular Linked List (DCLL)
 
-### ✔️ Tree Data Structure
+###   Tree Data Structure
 - Binary Search Tree (BST)
   - Insert
   - Inorder / Preorder / Postorder Traversal
   - Search
   - Count Nodes / Leaf Nodes / Parent Nodes
 
-### ✔️ Sorting Algorithms
+###   Sorting Algorithms
 - Bubble Sort
 - Efficient Bubble Sort
 - Selection Sort
 - Insertion Sort
 
-### ✔️ Searching Algorithms
+###   Searching Algorithms
 - Linear Search
 - Bi-directional Search
 - Binary Search (Ascending)
